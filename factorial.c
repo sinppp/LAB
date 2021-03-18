@@ -3,10 +3,6 @@
  
 int main()
 {
-    int num,i;
-    long int fact;
-  
-    
     scanf("%d",&num);
   
     
